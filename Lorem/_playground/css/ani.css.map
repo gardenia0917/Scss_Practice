@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAaA,UAAU,CAAV,KAAU;EACR,EAAE;IACA,OAAO,EAAE,GAAG;IAEZ,SAAS,EAAE,uBAAuB;;EAEpC,GAAG;IACD,OAAO,EAAE,CAAC;;EAGZ,IAAI;IACF,OAAO,EAAE,GAAG;;;;AAIhB,AAAA,KAAK,CAAC;EACJ,cAAc,EAAE,KAAK;EACrB,kBAAkB,EAAE,EAAE;EAGtB,mBAAmB,EAAE,IAAI;EACzB,yBAAyB,EAAE,CAAC;EAC5B,eAAe,EAAE,EAAE;CACpB",
-    "sources": [
-        "../scss/ani.scss"
-    ],
-    "names": [],
-    "file": "ani.css"
-}
